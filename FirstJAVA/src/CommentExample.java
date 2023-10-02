@@ -1,6 +1,6 @@
 /**
  * 이 주석은 API Document를 생성하기 위한 주석입니다.
- * @author tjoeun
+// * @author tjoeun
  * @version 1.0
  * @since 2023.08.17
  */
